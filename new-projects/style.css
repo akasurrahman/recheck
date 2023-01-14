@@ -2,6 +2,7 @@
   margin: 0;
   padding: 0;
 }
+/* Section-1 */
 .heading1 h1 {
   position: absolute;
   width: 525px;
@@ -43,6 +44,7 @@
   left: 1210px;
   top: 578px;
 }
+/* Section-2 */
 .person {
   position: absolute;
   width: 569px;
@@ -92,7 +94,7 @@
 .lists li {
   list-style-type: none;
 }
-
+/* Section-3 */
 .future-plans {
   position: absolute;
   width: 179px;
@@ -142,7 +144,7 @@
   font-family: Georgia, "Times New Roman", Times, serif;
   text-align: center;
 }
-
+/* Section-4 */
 .about-me {
   position: absolute;
   background-color: rgb(232, 212, 174);
@@ -182,7 +184,7 @@
   background-color: #e79b7d;
   
 }
-
+/* Section-5 */
 .watching {
   position: absolute;
   width: 1140px;
@@ -234,7 +236,7 @@
   font-weight: 700;
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
 }
-
+/* Section-6 */
 .footer {
   position: absolute;
   width: 1600px;
