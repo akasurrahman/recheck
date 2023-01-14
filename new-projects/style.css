@@ -1,0 +1,321 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.heading1 h1 {
+  position: absolute;
+  width: 525px;
+  height: 228px;
+  left: 845px;
+  top: 216px;
+  font-family: "Work Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 65px;
+  line-height: 76px;
+  text-align: right;
+  color: #151414;
+}
+.heading1 article {
+  position: absolute;
+  width: 494px;
+  height: 78px;
+  left: 876px;
+  top: 468px;
+  font-family: "Work Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 26px;
+  text-align: right;
+  color: #444343;
+}
+.heading1 button {
+  position: absolute;
+  background-color: tomato;
+  border: none;
+  color: whitesmoke;
+  font-weight: 700;
+  font-size: 18px;
+  border-radius: 5px;
+  width: 160px;
+  height: 64px;
+  left: 1210px;
+  top: 578px;
+}
+.person {
+  position: absolute;
+  width: 569px;
+  height: 723.3px;
+  left: 206px;
+  top: 880px;
+}
+.heading2 {
+  position: absolute;
+  width: 416px;
+  height: 400px;
+  left: 862px;
+  top: 1178px;
+}
+
+.heading2 h1 {
+  position: absolute;
+  width: 288px;
+  height: 94px;
+  top: 20px;
+  font-family: "Work Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 47px;
+  color: #151414;
+}
+.heading2 p {
+  position: absolute;
+  width: 416px;
+  height: 104px;
+  top: 129px;
+  font-family: "Work Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 26px;
+  color: #444343;
+}
+.lists {
+  position: absolute;
+  width: 349px;
+  height: 162px;
+  left: 862px;
+  top: 1416px;
+}
+.lists li {
+  list-style-type: none;
+}
+
+.future-plans {
+  position: absolute;
+  width: 179px;
+  height: 47px;
+  left: 711px;
+  top: 1700.3px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 25px;
+  line-height: 40px;
+  color: #151414;
+}
+.plan1 {
+  position: absolute;
+  left: 330px;
+  top: 1780px;
+}
+.plan1 h3 {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  text-align: center;
+}
+.plan2 {
+  position: absolute;
+  left: 600px;
+  top: 1780px;
+}
+.plan2 h3 {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  text-align: center;
+}
+.plan3 {
+  position: absolute;
+  left: 870px;
+  top: 1780px;
+}
+.plan3 h3 {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  text-align: center;
+}
+.plan4 {
+  position: absolute;
+  left: 1140px;
+  top: 1780px;
+}
+.plan4 h3 {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  text-align: center;
+}
+
+.about-me {
+  position: absolute;
+  background-color: rgb(232, 212, 174);
+  width: 1140px;
+  height: 190px;
+  left: 230px;
+  top: 2000px;
+  border-radius: 5px;
+  text-align: center;
+}
+.about-me h1 {
+  font-family: sans-serif;
+  font-size: 30px;
+  font-weight: 700;
+  margin-top: 5px;
+}
+.about-me p {
+  font-family: "Arial Narrow Bold";
+  font-size: 20px;
+  margin-top: 5px;
+  text-decoration:underline;
+}
+.color {
+  color: red;
+  font-size: 20px;
+  font-weight: 700;
+}
+.about-me article {
+  white-space: pre-line;
+  font-size: 18px;
+  margin-top: 10px;
+}
+.about-me button {
+  padding: 5px;
+  border: none;
+  border-radius: 5px;
+  background-color: #e79b7d;
+  
+}
+
+.watching {
+  position: absolute;
+  width: 1140px;
+  height: 300px;
+  left: 230px;
+  top: 2250.26px;
+  border-radius: 8px;
+}
+.gradient {
+  position: absolute;
+  width: 1140px;
+  height: 300px;
+  left: 230px;
+  top: 2250.26px;
+  background: linear-gradient(90deg, #f15b22 0%, rgba(241, 91, 34, 0) 100%);
+  border-radius: 8px;
+}
+.content {
+  position: absolute;
+  width: 459px;
+  height: 182px;
+  left: 230px;
+  top: 2222.26px;
+}
+.content h1 {
+  position: absolute;
+  width: 459px;
+  height: 94px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  margin-top: 65px;
+  margin-left: 60px;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 47px;
+  color: #ffffff;
+}
+.content button {
+  position: absolute;
+  width: 160px;
+  height: 64px;
+  left: 60px;
+  top: 190px;
+  background-color: whitesmoke;
+  border: none;
+  border-radius: 5px;
+  color: tomato;
+  font-size: 18px;
+  font-weight: 700;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+.footer {
+  position: absolute;
+  width: 1600px;
+  height: 577px;
+  left: 0px;
+  top: 2652.26px;
+  background: #151414;
+}
+.information h1 {
+  position: absolute;
+  width: 148px;
+  height: 53px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 45px;
+  color: #f8f8f8;
+  left: 200px;
+  top: 130px;
+}
+.information article {
+  position: absolute;
+  color: whitesmoke;
+  left: 148px;
+  top: 200px;
+  font-family: Arial, Helvetica, sans-serif;
+  white-space: pre;
+}
+.contact {
+  position: absolute;
+  color: whitesmoke;
+  left: 200px;
+  top: 300px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.social-link {
+  position: absolute;
+  left: 200px;
+  top: 380px;
+  font-size: 40px;
+}
+.social-link li a {
+  text-decoration: none;
+  color: paleturquoise;
+}
+.social-link li {
+  list-style-type: none;
+}
+.twitter {
+  position: absolute;
+  left: 60px;
+  top: 3px;
+}
+.youtube {
+  position: absolute;
+  left: 120px;
+  top: 3px;
+}
+.subscribe {
+  position: absolute;
+  font-size: 15px;
+  font-family: sans-serif;
+  width: 325px;
+  height: 204px;
+  left: 1046px;
+  top: 2782.26px;
+  color: whitesmoke;
+}
+.subscribe input {
+  padding: 20px 60px 25px 20px;
+  border: red;
+  background-color: paleturquoise;
+  border-radius: 5px;
+  background-color: none;
+}
+.subscribe button {
+  padding: 15px 25px;
+  border: none;
+  border-radius: 5px;
+  text-align: center;
+  color: #f15b22;
+  font-size: 20px;
+  font-weight: 700;
+}
